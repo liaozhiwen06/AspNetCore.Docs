@@ -28,7 +28,6 @@ Razor components in Blazor apps extensively use Razor syntax. If you aren't fami
 When accessing the content on Razor syntax, pay special attention to the following sections:
 
 * [Directives](xref:mvc/views/razor#directives): `@`-prefixed reserved keywords that typically change the way component markup is parsed or function.
-* [Directive attributes](xref:mvc/views/razor#directive-attributes): `@`-prefixed reserved keywords that typically change the way component elements are parsed or function.
 
 ### Names
 
